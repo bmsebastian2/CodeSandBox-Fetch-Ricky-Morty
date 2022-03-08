@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bmsebastian2.github.io/csb-0cmm9c/static/css/main.1c0d15ce.chunk.css",
+    "main.js": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/main.c7ea5f26.chunk.js",
+    "main.js.map": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/main.c7ea5f26.chunk.js.map",
+    "runtime-main.js": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/runtime-main.629e65d9.js",
+    "runtime-main.js.map": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/runtime-main.629e65d9.js.map",
+    "static/js/2.00e1870e.chunk.js": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/2.00e1870e.chunk.js",
+    "static/js/2.00e1870e.chunk.js.map": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/2.00e1870e.chunk.js.map",
+    "index.html": "https://bmsebastian2.github.io/csb-0cmm9c/index.html",
+    "static/css/main.1c0d15ce.chunk.css.map": "https://bmsebastian2.github.io/csb-0cmm9c/static/css/main.1c0d15ce.chunk.css.map",
+    "static/js/2.00e1870e.chunk.js.LICENSE.txt": "https://bmsebastian2.github.io/csb-0cmm9c/static/js/2.00e1870e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.629e65d9.js",
+    "static/js/2.00e1870e.chunk.js",
+    "static/css/main.1c0d15ce.chunk.css",
+    "static/js/main.c7ea5f26.chunk.js"
+  ]
+}
